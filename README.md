@@ -1,0 +1,1 @@
+This is the html files of the Dokidoki Website Club, a steam of BUPT.
